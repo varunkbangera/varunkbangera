@@ -34,10 +34,3 @@ Web application developer experienced in **Java, Python, Spring Boot, Flask, and
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Varun K" height="30" width="40"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunkbangera&show_icons=true&locale=en" alt="varunkbangera" />
-</p>
