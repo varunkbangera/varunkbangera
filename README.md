@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun K</h1>
-<h3 align="center">QA Engineer & Web Developer | Test Automation | Java & Python Enthusiast</h3>
+<h3 align="center">Web Developer | Test Automation | Java & Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=varunkbangera&label=Profile%20views&color=0e75b6&style=flat" alt="varunkbangera" />
